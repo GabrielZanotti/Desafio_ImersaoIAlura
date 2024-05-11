@@ -32,6 +32,3 @@ O código é estruturado da seguinte forma:
 * **Instruções Condicionais no Prompt:** As instruções para incluir características de itens e preços são adicionadas ao prompt somente quando necessário, tornando a interação mais natural.
 * **Cores no Texto:**  A cor verde na resposta do NPC ajuda a distinguir o diálogo do NPC das entradas do jogador.
 * **Loop de Interação com "SAIR":** O uso de "SAIR" para encerrar a conversa torna a interação mais intuitiva para o jogador.
-
-
-Este projeto serve como um ponto de partida para um chatbot de RPG medieval mais completo e envolvente. Com a flexibilidade e o poder da API do Google Gemini, as possibilidades são vastas!
