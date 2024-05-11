@@ -1,4 +1,4 @@
-# Chatbot de RPG Medieval com Google Gemini
+# Chatbot de RPG Medieval com Google AI Studio
 
 Este projeto é um chatbot interativo de RPG medieval que utiliza a API do Google Gemini para gerar diálogos dinâmicos e imersivos. O chatbot simula a interação com NPCs (personagens não jogáveis) em uma cidade medieval, permitindo que o mestre monte dialogos melhores, e que o jogador converse com um mercador, um taverneiro ou um soldado.
 
